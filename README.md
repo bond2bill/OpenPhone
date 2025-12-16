@@ -143,7 +143,7 @@ OpenPhone delivers a complete **Mobile AI Ecosystem**. We provide both a **light
 
 ---
 
-## 🌟 Core Solutions of OpenPhone
+## 🌟 Technical Innovation & Implementation
 
 ### 🧠 Model Training: SFT+RL
 • **Synthetic Data Generation**: Leverages advanced MLLMs to create high-quality reasoning chain training data, addressing the scarcity of manual annotations. <br>
